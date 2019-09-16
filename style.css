@@ -70,13 +70,13 @@ div.section {
 /* This alters the appearance of the div with id="signup". */
 #poem {
 	height: 110px;
-	background: white;
+	background: lightblue;
 	text-align: center;
 }
 
 /* This alters the appearance of the div with id="whoweare" */
 #whoweare {
-	background: white;
+	background: lightblue;
 	color: black;
 }
 
@@ -89,4 +89,5 @@ div.section {
 }
 .miniright{
 	word-wrap: break-word;
+	
 }
