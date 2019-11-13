@@ -1,3 +1,8 @@
 function changeColor(){
-    document.getElementById("whoweare").style.color = ("yellow");
+    if (document.getElementById("whoweare").style.color != "yellow"){
+        document.getElementById("whoweare").style.color = ("yellow");
+    }
+    else{
+        document.getElementById("whoweare").style.color = ("black");
+    }
 }
